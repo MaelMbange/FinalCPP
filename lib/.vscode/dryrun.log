@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/student/Bureau/Finalcpp/InterfaceQt/lib'
+g++ -o main main.cpp ../object/Event.o ../object/Cours.o ../object/Horaire.o ../object/Professeur.o ../object/Groupe.o ../object/Local.o ../object/Liste.o ../object/Timing.o ../object/Temps.o ../object/Exception.o ../object/TempsException.o ../object/TimingException.o ../object/planifiable.o ../object/ListeTriee.o ../object/Iterateur.o
+make: Leaving directory '/home/student/Bureau/Finalcpp/InterfaceQt/lib'
+ 
